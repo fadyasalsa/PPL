@@ -1,2 +1,6 @@
 new feature
+<<<<<<< HEAD
 pull request
+=======
+new update
+>>>>>>> 05312f015ecf67b5334127d792e4a0303bd88dd3
